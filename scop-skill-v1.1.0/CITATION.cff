@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this skill, cite SCOP and the underlying methods (CellChat, SCENIC)."
+title: "SCOP single-cell skill"
+abstract: >-
+  A data-agnostic collection of SCOP workflows for Seurat single-cell analysis:
+  marker/gene-set heatmaps, per-gene expression figures, patient-paired
+  pseudobulk statistics, cell-cell communication (CellChat), and SCENIC
+  regulon inference with the pure R/C++ backend.
+authors:
+  - family-names: "SCOP skill contributors"
+version: 1.1.0
+license: MIT
+repository-code: "https://github.com/your-org/scop-skill"
+keywords:
+  - single-cell
+  - SCOP
+  - Seurat
+  - CellChat
+  - SCENIC
+  - bioinformatics
